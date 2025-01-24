@@ -9,3 +9,10 @@ In this lab, I used various set of tools including AngryIPScanner,Global Network
 <br />
 
 
+<h2>The setup for this lab encompassed the following:</h2>
+This was fully a virtual envrionemnt
+
+- <b>2 Windows OS systems</b>
+- <b>2 Windows servers</b>
+- <b>2 Linux OS systems</b>
+- <b>1 Firewall</b>
