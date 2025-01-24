@@ -1,4 +1,4 @@
-<h1>CEH Lab 3</h1>
+<h1>Enumeration Lab - CEH</h1>
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-3/blob/34ec7291d6f93c854fa86bfc558c3dd74acd4433/Lab3-1.png)
